@@ -68,10 +68,6 @@ See [Local Git deployment to Azure App Service](deploy-local-git.md).
 
 # [Azure Repos](#tab/repos)
    
-   > [!NOTE]
-   > Azure Repos is supported as a deployment source for Windows apps.
-   >
-
 4. App Service Build Service (Kudu) is the default build provider.
 
     > [!NOTE]
@@ -154,7 +150,7 @@ This optional configuration replaces the default authentication with publishing 
     
 ## Deploy from other repositories
 
-For Windows apps, you can manually configure continuous deployment from a cloud Git or Mercurial repository that the portal doesn't directly support, like [GitLab](https://gitlab.com/). You do that by selecting **External Git** in the **Source** dropdown list. For more information, see [Set up continuous deployment using manual steps](https://github.com/projectkudu/kudu/wiki/Continuous-deployment#setting-up-continuous-deployment-using-manual-steps).
+You can manually configure continuous deployment from a cloud Git or Mercurial repository that the portal doesn't directly support, like [GitLab](https://gitlab.com/). You do that by selecting **External Git** in the **Source** dropdown list. For more information, see [Set up continuous deployment using manual steps](https://github.com/projectkudu/kudu/wiki/Continuous-deployment#setting-up-continuous-deployment-using-manual-steps).
 
 ## More resources
 
