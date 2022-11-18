@@ -70,7 +70,8 @@ If you require to send a volume of messages that exceed the rate limits, email u
 For more information on the SMS SDK and service, see the [SMS SDK overview](./sms/sdk-features.md) page or the [SMS FAQ](./sms/sms-faq.md) page.
 
 ## Email
-Sending a high volume of messages has a set of limitations on the number of email messages you can send. If you hit these limits, your messages won't be queued to be sent. You can submit these requests again, once the Retry-After time expires.
+Sending a high volume of messages has a set of limitations on the number of email messages you can send. If you hit these limits, your messages won't be queued to be sent. You can submit these requests again, once the Retry-After time expires. 
+The limits above do not apply for subscriptions that are already upgraded.
 
 ### Rate Limits 
 
