@@ -154,7 +154,7 @@ If you already have a working App Service certificate, you can complete the foll
 
 1. On the **Key Vault Status** page, to create a new vault or choose an existing vault, select **Key Vault Repository**.
 
-1. If you create a new vault, set up the vault based on the following table, and make sure to use the same subscription and resource group as your App Service app. When you're done, select **Create**.
+1. If you create a new vault, set up the vault based on the following table. When you're done, select **Create**.
 
    | Setting | Description |
    |-|-|
